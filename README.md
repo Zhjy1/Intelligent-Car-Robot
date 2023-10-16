@@ -2,9 +2,9 @@
 
 It is a MathWorks Project named "Face-Detection-and-Human-Tracking-Robot-main" in 2022. The project is mainly collaborated by zhou Junyu, Guo Lancong and Liu Jinfan. Our project obtained the excellence in innovation certificate by MathWorks. 
 
-We designed an intelligent car robot which has three essential modules: face recognition, speech recognition, GSP navigation and localization.
+We designed an intelligent car robot which has three essential modules: face detection, speech recognition, GSP navigation and localization.
 
-We first used Raspberry Pi to build a face recognition system(using CNN network) based on the camera of an Android phone, which has a accurate and fast recognition ability and can use a mask to determine the location of the human face.In addition, we also designed a motion control algorithm for the car based on the face recognition system so that it can move towards the location of the person.
+We first used Raspberry Pi to build a face detection system(using CNN network) based on the camera of an Android phone, which has a accurate and fast detection ability and can use a mask to determine the location of the human face.In addition, we also designed a motion control algorithm for the car based on the face recognition system so that it can move towards the location of the person.
 
 Besides, we also integrated a speech recognition module so that the car can complete the movement operation according to the voice command.
 
