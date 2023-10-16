@@ -1,4 +1,4 @@
-# Face Detection and Human Tracking Robot
+# Intelligent Car Robot
 
 It is a MathWorks Project named "Face-Detection-and-Human-Tracking-Robot-main" in 2022. The project is mainly collaborated by zhou Junyu, Guo Lancong and Liu Jinfan. Our project obtained the excellence in innovation certificate by MathWorks. 
 
